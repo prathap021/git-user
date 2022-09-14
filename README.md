@@ -1,6 +1,8 @@
 # git_users
 
 A new Flutter project.
+![Screenshot from 2022-09-14 05-45-39](https://user-images.githubusercontent.com/92242259/190031805-9ab44d02-3685-4651-bc70-f1a885e2108a.png)
+
 
 ## Getting Started
 
